@@ -2,4 +2,4 @@
 Nodejs code to download YouTube video thumbnails
 
 Usage:
-nodejs ytcmd.js <videoId>
+nodejs ytcmd.js [videoId]
